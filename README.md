@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/saratiedt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saratiedt&count_private=true&show_icons=true&theme=nightowl&hide=stars)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saratiedt&count_private=true&show_icons=true&theme=nightowl&hide=contribs)" />
 </a>
 <a href="https://github.com/saratiedt/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saratiedt&langs_count=8&layout=compact&theme=nightowl&)" />
