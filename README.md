@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saratiedt&count_private=true&show_icons=true&theme=nightowl)](https://github.com/saratiedt/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saratiedt&langs_count=8&layout=compact&theme=nightowl)](https://github.com/saratiedt/github-readme-stats)
-
 <a href="https://github.com/saratiedt/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saratiedt&count_private=true&show_icons=true&theme=nightowl)" />
 </a>
