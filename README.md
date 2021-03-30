@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saratiedt&count_private=true&show_icons=true&theme=nightowl)" />
 </a>
 <a href="https://github.com/saratiedt/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saratiedt&langs_count=8&layout=compact&theme=nightowl)" />
 </a>
