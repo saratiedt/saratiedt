@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <a href="https://github.com/saratiedt">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=saratiedt&count_private=true&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&layout=compact&count_private=true&)" />
 </a>
