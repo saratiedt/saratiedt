@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
- <a href="https://github.com/saratiedt"><img align="center" src="src="https://github-readme-stats.vercel.app/api?username=saratiedt&count_private=true&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&layout=compact&count_private=true&)" alt="Sara's github stats" </a>  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/saratiedt)"><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=saratiedt&langs_count=8&theme=nightowl&layout=compact&hide_border=true&include_all_commits=true))" /></a>
+ <a href="https://github.com/saratiedt"><img align="center" src="src="https://github-readme-stats.vercel.app/api?username=saratiedt&count_private=true&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&layout=compact&count_private=true&" alt="Sara's github stats" </a>  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/saratiedt)"><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=saratiedt&langs_count=8&theme=nightowl&layout=compact&hide_border=true&include_all_commits=true))" /></a>
 
 <a href="https://github.com/saratiedt">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=saratiedt&count_private=true&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&layout=compact&count_private=true&)" />
