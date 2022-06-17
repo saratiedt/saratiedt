@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  ![](./profile-3d-contrib/profile-night-rainbow.svg)
-</div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
   
 
 <a href="https://github.com/saratiedt">
